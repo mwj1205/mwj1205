@@ -6,7 +6,7 @@
 
 <h3>🦢공부중</h3>
 <img src="https://img.shields.io/badge/Unity-lightgrey?style=flat-square&logo=Unity&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;>
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
                                                                                                  
 <h3>🛠사용언어</h3>
 
