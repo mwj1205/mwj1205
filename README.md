@@ -5,11 +5,10 @@
 
 
 <h3>🦢공부중</h3>
-<img src="https://img.shields.io/badge/Unity-lightgrey?style=flat-square&logo=Unity&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-<img src="https://img.shields.io/badge/C_Sharp-#239120?style=flat-square&logo=C Sharp&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-
+<img src="https://img.shields.io/badge/Unity-lightgrey?style=flat-square&logo=Unity&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;>
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+                                                                                                 
 <h3>🛠사용언어</h3>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <!--
 **mwj1205/mwj1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
