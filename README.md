@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Unity-lightgrey?style=flat-square&logo=Unity&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <h3>🛠사용언어</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwj1205)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c++&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 
 <!--
 **mwj1205/mwj1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
