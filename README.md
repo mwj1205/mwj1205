@@ -8,7 +8,7 @@
 <div>
 <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-<img src="https://img.shields.io/badge/C#-#239120?style=flat-square&logo=C_Sharp&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white "style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 </div>
                                                                                                 
 <h3>🛠사용언어</h3>                                                                                                    
