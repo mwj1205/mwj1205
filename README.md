@@ -12,6 +12,5 @@
 </div>
                                                                                                 
 <h3>🛠사용언어</h3>                                                                                                    
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
-
+<img src="https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=white "style="height : auto; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwj1205)](https://github.com/anuraghazra/github-readme-stats)
