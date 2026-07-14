@@ -21,4 +21,3 @@
 <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" style="height : 25px; margin-left : 10px; margin-right : 10px;"/>&nbsp;
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwj1205)](https://github.com/anuraghazra/github-readme-stats)
